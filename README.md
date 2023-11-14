@@ -10,7 +10,10 @@ I am a (combination of):
 I happen to have lots of experience in the world of health IT - genomics, medical terminology
 and primary care data analytics - but am interested in any field that is interesting.
 
-- 🔭 I’m currently working on federated data sharing for genomics in Australia
+I am apparently the only developer in the world *not* experimenting or working with AI.
+
+I’m currently working on federated data sharing for genomics in Australia ( see [Elsa Data](/elsa-data) ).
+
 
 
 <!--
