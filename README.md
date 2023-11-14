@@ -12,9 +12,19 @@ and primary care data analytics - but am interested in any field that is interes
 
 I am apparently the only developer in the world *not* experimenting or working with AI.
 
-I’m currently working on federated data sharing for genomics in Australia ( see [Elsa Data](/elsa-data) ).
+I’m currently working on federated data sharing for genomics in Australia ( see [Elsa Data](https://github.com/elsa-data) ).
 
+Summarising my tech skillset:
 
+Cloud:
+- AWS (expert)
+- GCP (intermediate)
+- Azure (intermediate)
+
+Languages:
+- Typescript/Javascript, Python, C# (expert)
+- C, Java (previously expert, now rusty)
+- Ruby, Go, Rust (intermediate)
 
 <!--
 **andrewpatto/andrewpatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
