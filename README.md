@@ -1,13 +1,13 @@
-### Andrew Patterson
-
-#### Roles
+### Roles
 
 | Full stack developer | Solution architect | Cloud engineer | Team lead |
 | :--- |  :--- |  :--- |  :--- |
 | 30 years (includes "desktop" era!) | 20 years | 5 years | 5 years |
 
-I happen to have lots of experience in the world of health IT - genomics, medical terminology
+I happen to have had many roles in the world of health IT - genomics, medical terminology
 and primary care data analytics - but am interested in any field that is interesting.
+
+### Experience
 
 I’m currently working on:
 - federated data sharing for genomics in Australia ( see [Elsa Data](https://github.com/elsa-data) ).
@@ -19,7 +19,7 @@ I previously:
 
 I am apparently the only developer in the world *not* experimenting or working with AI.
 
-#### Skill set
+### Skill set
 
 | Level | Cloud | Language | Front End | Back End | Other |
 | :--- | :--- | :--- | :--- | :--- | :--- |
