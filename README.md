@@ -1,8 +1,11 @@
 ### Roles
 
-| Full stack developer | Solution architect | Cloud engineer | Team lead |
+| Things I've done  | How long I've done them  |  |  |
 | :--- |  :--- |  :--- |  :--- |
-| 30 years (includes "desktop" era!) | 20 years | 5 years | 5 years |
+| Full stack developer | 30 years (includes "desktop" era!)  |
+| Solution architect | 20 years |
+| Cloud engineer | 5 years |
+| Team lead | 5 years |
 
 I happen to have had many roles in the world of health IT - genomics, medical terminology
 and primary care data analytics - but am interested in any field that is interesting.
@@ -17,7 +20,7 @@ I previously:
 - designed and developed the initial commercial release of an award winning clinical data analytics tool [PenCS CAT](https://www.pencs.com.au/products/cat)
 - was a core member of the team developing the Java IDE for students [BlueJ](https://www.bluej.org)
 
-I am apparently the only developer in the world *not* experimenting or working with AI.
+~~I am apparently the only developer in the world *not* experimenting or working with AI.~~ I am now working with the AI - I was wrong - it is very useful.
 
 ### Skill set
 
