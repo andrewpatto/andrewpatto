@@ -1,7 +1,7 @@
 ### Roles
 
-| Things I've done  | How long I've done them  |  |  |
-| :--- |  :--- |  :--- |  :--- |
+| Things I've done  | How long I've done them  | 
+| :--- |  :--- | 
 | Full stack developer | 30 years (includes "desktop" era!)  |
 | Solution architect | 20 years |
 | Cloud engineer | 5 years |
